@@ -1,0 +1,9 @@
+yellow
+gray
+white
+#00ffff
+#0080ff
+#ffbf00
+#bf00ff
+#9f6060
+rgb(59, 68, 76)

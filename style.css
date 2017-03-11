@@ -1,0 +1,30 @@
+#myCanvas{
+	background: #eee;
+	width: 800px;
+	height: 400px;
+	display: block;
+	margin: 0 auto;
+	margin-top: 20px;
+	border: 4px solid #000000;
+}
+
+#tabela{
+	font-size: 30px;
+	margin-left: 46%;
+}
+
+#buton1{
+	height: 50px;
+	margin-left: 39%;
+	background: #7FFF00;
+}
+
+#buton2{
+	height: 50px;
+	margin-left: 5%;
+	background: #7FFF00;
+}
+
+#butoane{
+	display: inline;
+}
